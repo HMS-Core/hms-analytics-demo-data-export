@@ -24,17 +24,17 @@ Before using sample code, check whether the JDK environment and Maven environmen
 Decompress the sample code package called HAClientExample.
         
 Open the project with tools with IDEA and configure the settings of Maven environment for sample code to download packages of references.
-    
-## Supported Environments
-JDK 1.8 or a later version is recommended.
-Maven 3.6 or a later version is recommended.
-	
+
 ## Configuration 
 To use the demo, you need to set related parameters in application.properties.
     
 spring.application.name: the name of the service.
 server.port: the port to lanuch the service.
-	
+
+## Supported Environments
+JDK 1.8 or a later version is recommended.
+Maven 3.6 or a later version is recommended.
+
 ## Sample Code
 Export_Data_Callback_CodeLab is a demo to introduce how to create a callback interface for exporting data.
 The following describes methods in the demo.
