@@ -1,5 +1,9 @@
 ## 华为分析服务数据导出样例
 
+[![hms](https://img.shields.io/badge/hms-analytics-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
+
+[English](https://github.com/HMS-Core/hms-analytics-demo-data-export) | 中文
+
 ## 目录
 
  * [简介](#简介)
