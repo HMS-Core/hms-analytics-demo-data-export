@@ -26,10 +26,11 @@ Decompress the sample code package called HAClientExample.
 Open the project with tools with IDEA and configure the settings of Maven environment for sample code to download packages of references.
 
 ## Configuration 
-To use the demo, you need to set related parameters in application.properties.
+To use the demo, you need to set related parameters in `application.properties`.
     
-spring.application.name: the name of the service.
-server.port: the port to lanuch the service.
+`spring.application.name`: the name of the service.
+
+`server.port`: the port to lanuch the service.
 
 ## Supported Environments
 JDK 1.8 or a later version is recommended.
